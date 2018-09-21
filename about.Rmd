@@ -1,0 +1,8 @@
+---
+title: "About This Website"
+---
+
+More about this website.
+this image's about me's where I live.
+![Philadelphia Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Philadelphia_skyline_from_the_southwest_2015.jpg/1280px-Philadelphia_skyline_from_the_southwest_2015.jpg)
+
